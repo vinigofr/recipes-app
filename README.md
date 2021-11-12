@@ -55,3 +55,21 @@ Bootstrap,
 ------------
 
 # Créditos: pessoas que fizeram esse projeto acontecer!
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/marcoswarmling">
+        <img src="https://github.com/marcoswarmling.png" width="60px;" alt=""/>
+        <br />
+        <sub><b>Marcos Warmling</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gusm217">
+        <img src="https://github.com/gusm217.png" width="60px;" alt=""/>
+        <br>
+        <sub><b>Gustavo Mendes</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
